@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\mvcMovie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DF3860-DDB6-4D59-9AA3-FDD4C44A5A11}|mvcMovie.csproj|c:\\users\\admin\\source\\repos\\mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2DF3860-DDB6-4D59-9AA3-FDD4C44A5A11}|mvcMovie.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DF3860-DDB6-4D59-9AA3-FDD4C44A5A11}|mvcMovie.csproj|c:\\users\\admin\\source\\repos\\mvcmovie\\controllers\\ottmoviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DF3860-DDB6-4D59-9AA3-FDD4C44A5A11}|mvcMovie.csproj|solutionrelative:controllers\\ottmoviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DF3860-DDB6-4D59-9AA3-FDD4C44A5A11}|mvcMovie.csproj|c:\\users\\admin\\source\\repos\\mvcmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DF3860-DDB6-4D59-9AA3-FDD4C44A5A11}|mvcMovie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DF3860-DDB6-4D59-9AA3-FDD4C44A5A11}|mvcMovie.csproj|c:\\users\\admin\\source\\repos\\mvcmovie\\views\\ottmovie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2DF3860-DDB6-4D59-9AA3-FDD4C44A5A11}|mvcMovie.csproj|solutionrelative:views\\ottmovie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\mvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\mvcMovie\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T07:59:42.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\mvcMovie\\Views\\ottMovie\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ottMovie\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\mvcMovie\\Views\\ottMovie\\Index.cshtml",
+              "RelativeToolTip": "Views\\ottMovie\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T07:13:14.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\mvcMovie\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\mvcMovie\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:59:54.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ottMovieController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\mvcMovie\\Controllers\\ottMovieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ottMovieController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\mvcMovie\\Controllers\\ottMovieController.cs",
+              "RelativeToolTip": "Controllers\\ottMovieController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:53:28.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
